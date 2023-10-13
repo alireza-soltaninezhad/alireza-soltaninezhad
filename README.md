@@ -28,6 +28,8 @@
 
 
 ### 📂 Some of Projects:
+
+- **Bachelor Project for Computer Science** (Software Engineering) - [Repo](https://github.com/alireza-soltaninezhad/Smart_AR_Assistant_program.git)
 - **Master Project for Computer Science** (Software Engineering and Green IT track) - [Repo](https://github.com/alireza-soltaninezhad/Master_Thesis_Project_2023.git)
 - **Speech to Text Transcription App** - [Repo](https://github.com/alireza-soltaninezhad/speech_to_text.git)
 - **September First - Appointment Bot for Telegram** - [Repo](https://github.com/alireza-soltaninezhad/September_First_Telegram_Bot.git)
